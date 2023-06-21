@@ -1,7 +1,7 @@
-# BankAccount
+# BankAccount:
 This is an educational public repository to illustrate the power of automated testing through Github Actions.
 
-## Run locally
+## Run locally:
 1. Set up Python virtual environment.
 ```
 python -m venv venv
@@ -19,7 +19,7 @@ python -m pytest
 python app.py
 ```
 
-## Code Description
+## Code Description:
 
 1. app.py: A flask application that exposes the following API endpoints: 
   - index at / : Retun a JSON data structure indicating the current balance. 
